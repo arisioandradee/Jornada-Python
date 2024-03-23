@@ -17,7 +17,7 @@ Precisando melhorar seus resultados ela quer conseguir entender os principais mo
 - Pandas
 - Plotly 
 
-## Bibliotecas necessárias para rodar o arquivo:
+## Comandos para instalar as biliotecas
 - Instalar a biblioteca Plotly 
     ```
     pip install pip install plotly
