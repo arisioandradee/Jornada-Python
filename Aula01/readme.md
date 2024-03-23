@@ -13,7 +13,7 @@ Automação de Tarefas com Python
 - Pandas
 - Time
 
-## Ações necessárias para rodar o arquivo:
+## Comandos para instalar as biliotecas:
 - Instalar a biblioteca PyAutoGUI:
     ```
     pip install pyautogui
